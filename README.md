@@ -1,2 +1,2 @@
 # caesar-cipher
-Criptografia cesariana utilizando PHP :)
+Criptografia cesariana utilizando PHP
